@@ -8,4 +8,4 @@ Meu nome é Giovanna Guilherme das Neves
 ### Você pode entrar em contato comigo 📧 
 alurastartestudante@email.com
 @alurastartestudante
-![]([link](https://pixabay.com/pt/gifs/cora%C3%A7%C3%A3o-amor-vermelho-papel-12028/))
+    ![(https://pixabay.com/pt/gifs/cora%C3%A7%C3%A3o-amor-vermelho-papel-12028/
